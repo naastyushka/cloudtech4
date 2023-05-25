@@ -1,5 +1,5 @@
 import boto3
-from urllib3 import urlopen
+from urllib.request import urlopen
 import matplotlib.pyplot as plt
 import pandas as pd
 from json import loads
