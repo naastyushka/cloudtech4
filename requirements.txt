@@ -1,0 +1,5 @@
+boto3
+urllib.request
+matplotlib
+pandas
+json
