@@ -1,4 +1,0 @@
-boto3==1.26.112
-matplotlib==3.7.0
-pandas==2.0.0
-requests==2.28.2
